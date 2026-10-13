@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "campaign-action-ledger",
+  "source_version": "a43a917956a3ed7c3572e598935f16a8b2b658f4e772a30a290d624ba7b46207",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "c0ea1bc2138381a35d6ec6ef642e4e08f15243628ca400ffc9f9b4304f2072e6",
+    "SKILL.md": "0a3ff71d0cd73e0d6f751cd2767b8edcafca8b90f41513db865b1248b570ad67"
+  }
+}
